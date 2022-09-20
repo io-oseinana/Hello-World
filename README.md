@@ -1,8 +1,9 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Hello World Microverse Project
 
 > Description the project.
+
+- This Project is about basic hello world
+- Checking linters in Pull Request
 
 
 ## Built With
@@ -30,9 +31,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/io-oseinana)
+- Twitter: [@twitterhandle](https://twitter.com/IsaacOs87131165)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/oseinana-isaac7)
 
 ## 🤝 Contributing
 
